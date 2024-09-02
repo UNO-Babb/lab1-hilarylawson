@@ -18,7 +18,7 @@ def main():
 
   
   #Print the story with the user supplied words.
-  print("Here is your MadLib: Today I went to the" , place1 , "with my" , noun1 , "and saw a" , adj1 , noun2 , "with a" , adj2 , noun3 + ". Then the" , noun2 , "went to" , verb1 , "with my" , noun1 + ". That made me very" , adj3 + ".")
+  print("Here is your Mad Lib: Today I went to" , place1 , "with my" , noun1 , "and saw a" , adj1 , noun2 , "with a" , adj2 , noun3 + ". Then the" , noun2 , "went to" , verb1 , "with my" , noun1 + ". That made me very" , adj3 + ".")
 
 
 #Call the main function if this is the file being run.
